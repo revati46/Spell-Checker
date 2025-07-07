@@ -1,0 +1,2 @@
+# Spell-Checker
+Trie based
